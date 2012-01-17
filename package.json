@@ -1,0 +1,16 @@
+{
+  "author": "George Stagas <gstagas@gmail.com> (http://stagas.com)",
+  "name": "blackout",
+  "description": "blackout express middleware",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stagas/blackout.git"
+  },
+  "main": "blackout.js",
+  "engines": {
+    "node": "~0.6.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
