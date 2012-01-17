@@ -1,5 +1,7 @@
 # blackout express middleware
 
+`npm install blackout`
+
 ```javascript
 var express = require('express');
 var blackout = require('blackout');
