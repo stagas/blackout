@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/stagas/blackout.png)](http://travis-ci.org/stagas/blackout)
 # blackout express middleware
 
 `npm install blackout`
